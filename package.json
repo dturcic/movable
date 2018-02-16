@@ -1,0 +1,20 @@
+{
+  "name": "sass_ht",
+  "version": "1.0.0",
+  "description": "SASS Compiler",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Vjeko",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "clean-css": "^4.1.9",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.1.0",
+    "gulp-clean-css": "^3.9.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0"
+  }
+}
